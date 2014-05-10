@@ -24,12 +24,12 @@
   },
   "homepage": "https://github.com/MauriceButler/secure-cookies",
   "dependencies": {
-    "cookies": "~0.4.0",
-    "keygrip": "~1.0.0",
-    "cryptr": "0.0.1"
+    "cookies": "^0.4.0",
+    "cryptr": "^1.0.0",
+    "keygrip": "^1.0.0"
   },
   "devDependencies": {
-    "mockery": "~1.4.0",
-    "grape": "~0.1.9"
+    "grape": "^0.1.10",
+    "mockery": "^1.4.0"
   }
 }
